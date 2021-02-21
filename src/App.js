@@ -57,7 +57,7 @@ function App() {
 
   return (
     <>
-      <h1>BamBuk</h1>
+      <h1>nurlan-dev-tiul</h1>
       <div className="container">
         <div className="box">
           <h2>Текущие заметки</h2>
